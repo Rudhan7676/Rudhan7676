@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Rudhan7676">
-  <img src="https://media.tenor.com/g0-y1a0s7qgAAAAd/coding.gif" alt="Coding GIF" width="600">
+  <img src="https://media.giphy.com/media/zwDNti5vWFujS/giphy.gif" alt="Luffy One Piece GIF" width="600">
   </a>
 </div>
 
