@@ -89,3 +89,9 @@
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
   </a>
 </div>
+
+### 🕹️ GitHub Profile Tetris 🕹️
+
+<div align="center">
+  <img src="https://github-profile-tetris.vercel.app/api?username=Rudhan7676&theme=tokyonight" alt="Rudhan's GitHub Profile Tetris" />
+</div>
