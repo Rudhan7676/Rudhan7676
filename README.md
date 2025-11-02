@@ -82,7 +82,7 @@
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Snake" width="600">
 </div>
 
-### 💬 Dev Quote 💬
+### 💬 Quote 💬
 
 <div align="center">
   <a href="https://github.com/piyush-eon/github-readme-quotes">
@@ -90,8 +90,8 @@
   </a>
 </div>
 
-### 🕹️ GitHub Profile Tetris 🕹️
+### 🎮 GitHub Contribution Snake 🎮
 
 <div align="center">
-  <img src="https://github-profile-tetris.vercel.app/api?username=Rudhan7676&theme=tokyonight&cache_bust=1" alt="Rudhan7676's GitHub Profile Tetris" />
+  <img src="https://raw.githubusercontent.com/Rudhan7676/Rudhan7676/main/dist/github-snake.svg" alt="Rudhan7676's contribution snake animation" />
 </div>
