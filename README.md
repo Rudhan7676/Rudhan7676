@@ -93,5 +93,5 @@
 ### 🕹️ GitHub Profile Tetris 🕹️
 
 <div align="center">
-  <img src="https://github-profile-tetris.vercel.app/api?username=Rudhan7676&theme=tokyonight" alt="Ruchan7676's GitHub Profile Tetris" />
+  <img src="https://github-profile-tetris.vercel.app/api?username=Rudhan7676&theme=tokyonight" alt="Rudhan7676's GitHub Profile Tetris" />
 </div>
