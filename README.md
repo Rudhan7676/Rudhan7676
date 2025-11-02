@@ -1,12 +1,12 @@
 <div align="center">
   <a href="https://github.com/Rudhan7676">
-  <img src="https://tenor.com/bh5t7.gif" alt="Logo" width="600">
+  <img src="https://media.tenor.com/g0-y1a0s7qgAAAAd/coding.gif" alt="Coding GIF" width="600">
   </a>
 </div>
 
 <div id="user-content-toc" align="center">
-  <h1 align="center">Hi there 👋, I'm Rudhan</h1>
-  <h3 align="center">A passionate AI & Machine Learning Engineer and Full-Stack Developer from Earth 🚀</h3>
+  <h1>Hi there 👋, I'm Rudhan</h1>
+  <h3>A passionate AI & Machine Learning Engineer and Full-Stack Developer from Earth 🚀</h3>
 </div>
 
 
