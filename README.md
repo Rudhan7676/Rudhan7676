@@ -81,3 +81,11 @@
 <div align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Snake" width="600">
 </div>
+
+### 💬 Dev Quote 💬
+
+<div align="center">
+  <a href="https://github.com/piyush-eon/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  </a>
+</div>
