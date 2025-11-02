@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Rudhan7676">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://tenor.com/bh5t7.gif)" alt="Logo" width="600">
+  <img src="https://tenor.com/bh5t7.gif" alt="Logo" width="600">
   </a>
 </div>
 
