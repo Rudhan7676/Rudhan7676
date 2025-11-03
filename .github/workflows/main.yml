@@ -1,14 +1,9 @@
 name: Generate Snake
 
 on:
-  # This will run the action every 5 minutes
   schedule:
     - cron: "*/5 * * * *"
-    
-  # This allows you to run it manually from the Actions tab
   workflow_dispatch:
-  
-  # This will run the action every time you push a change to this repository
   push:
     branches:
       - main
@@ -16,14 +11,12 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # <-- THIS IS THE FIX
     steps:
       - uses: actions/checkout@v2
-
       - uses: Platane/snk@v3
         with:
-          # Your GitHub username
           github_user_name: Rudhan7676
-          
-          # The output file for the animation
           outputs: |
             dist/github-snake.svg?palette=github-dark
