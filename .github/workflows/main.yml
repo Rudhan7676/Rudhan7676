@@ -10,14 +10,27 @@ on:
 
 jobs:
   build:
+    name: Generate Snake Animation
+    runs-on: ubuntu-latest
     permissions:
       contents: write
-    runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3 # Using v3 for stability
-      
-      - uses: Platane/snk@v3 # <-- THE FIX IS HERE (Using v3 instead of v4)
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg?palette=github-dark
+            dist/github-snake.svg?palette=github-light
+
+      - name: Push generated files
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
