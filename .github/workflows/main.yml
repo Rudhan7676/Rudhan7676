@@ -1,33 +1,23 @@
 name: Generate Contribution Snake
 
 on:
-  # Run automatically every 6 hours
   schedule:
     - cron: "0 */6 * * *"
-  # Allows manual runs from the Actions tab
   workflow_dispatch:
-  # Runs on pushes to the main branch
   push:
     branches:
       - main
 
 jobs:
   build:
-    # Grant permissions for the workflow to write to the repository.
     permissions:
       contents: write
     runs-on: ubuntu-latest
     steps:
-      # Checks out the repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v4
-
-      # Generates the snake animation
+      
       - uses: Platane/snk@v4
         with:
-          # Use a dynamic variable to get your username automatically
           github_user_name: ${{ github.repository_owner }}
-          
-          # Generate two different animations to be sure
           outputs: |
             dist/github-snake.svg?palette=github-dark
-            dist/github-snake-dark.svg?palette=github-dark
