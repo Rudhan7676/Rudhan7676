@@ -14,9 +14,9 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v3 # Using v3 for stability
       
-      - uses: Platane/snk@v4
+      - uses: Platane/snk@v3 # <-- THE FIX IS HERE (Using v3 instead of v4)
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
