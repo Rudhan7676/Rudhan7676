@@ -93,5 +93,6 @@
 ### 🎮 GitHub Contribution Snake 🎮
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Rudhan7676/Rudhan7676/main/dist/github-snake.svg?cache_bust=9999" alt="Rudhan7676's contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/Rudhan7676/Rudhan7676/output/github-contribution-grid-snake.svg" alt="Rudhan7676's contribution snake animation" />
 </div>
+
