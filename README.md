@@ -92,5 +92,5 @@
 
 ### 🎮 GitHub Contribution Snake 🎮
 
-![snake gif](https://github.com/Rudhan7676/blob/output/github-snake.svg)
+![snake gif](https://github.com/Rudhan7676/Rudhan7676/blob/output/github-snake-dark.svg)
 
