@@ -69,11 +69,11 @@
 
 <h3 align="center">My GitHub Stats & Streaks 📈</h3>
 <div align="center">
-  [Image]
+  <img src="https://github-readme-stats.vercel.app/api?username=Rudhan7676&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Rudhan's GitHub Stats" />
   <br/>
-  [Image]
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudhan7676&theme=tokyonight" alt="Rudhan's GitHub Streak" />
   <br/>
-  [Image]
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudhan7676&layout=compact&theme=tokyonight" />
 </div>
 
 ---
