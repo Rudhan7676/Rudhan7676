@@ -71,7 +71,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rudhan7676&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Rudhan's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudhan7676&theme=tokyonight" alt="Rudhan's GitHub Streak" />
+  [Image]
   <br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudhan7676&layout=compact&theme=tokyonight" />
 </div>
@@ -93,4 +93,3 @@
 ### 🎮 GitHub Contribution Snake 🎮
 
 ![snake gif](https://github.com/Rudhan7676/Rudhan7676/blob/output/github-snake-dark.svg)
-
