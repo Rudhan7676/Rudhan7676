@@ -73,7 +73,7 @@
   <br/>
   [Image]
   <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudhan7676&layout=compact&theme=tokyonight" />
+  [Image]
 </div>
 
 ---
