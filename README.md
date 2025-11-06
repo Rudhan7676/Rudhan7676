@@ -69,7 +69,7 @@
 
 <h3 align="center">My GitHub Stats & Streaks 📈</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rudhan7676&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Rudhan's GitHub Stats" />
+  [Image]
   <br/>
   [Image]
   <br/>
